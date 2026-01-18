@@ -5,5 +5,9 @@
           fetch="https://github.com/"
           sync-c="true"
           revision="refs/heads/staging/16-qpr1" />
+  
+  <remove-project name="LineageOS/android" />
+
+  <project path="android" name="g4l4n7hu5/android" remote="galanthus" />
 
 </manifest>
